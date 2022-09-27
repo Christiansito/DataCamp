@@ -8,3 +8,4 @@ plt.show()
 # Calculate correlation
 cor = world_happiness['log_gdp_per_cap'].corr(world_happiness['happiness_score'])
 print(cor)
+
